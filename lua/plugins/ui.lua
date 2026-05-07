@@ -5,4 +5,10 @@ return {
       indent = { enabled = false },
     },
   },
+  {
+    "MeanderingProgrammer/render-markdown.nvim",
+    opts = {
+      heading = { backgrounds = {} },
+    },
+  },
 }
