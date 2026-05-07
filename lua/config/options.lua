@@ -5,6 +5,8 @@
 vim.opt.relativenumber = false
 vim.opt.cursorline = false
 
+vim.opt.guifont = "FiraCode Nerd Font Mono:h15.5"
+
 if vim.g.neovide then
   vim.g.neovide_cursor_animation_length = 0
   vim.g.neovide_scroll_animation_length = 0
